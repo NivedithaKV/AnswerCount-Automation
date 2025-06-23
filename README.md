@@ -31,8 +31,6 @@ answer-count-automation/
 ├── requirements.txt     # 📦 List of Python packages needed to run the script
 ├── screenshots/         # 🖼️ Folder for storing output images (e.g., success screenshots)
 └── README.md            # 📘 Project documentation, setup instructions, and guide
----
-
 
 ---
 
@@ -80,6 +78,3 @@ Replace them with your internal test credentials **only in a secure local enviro
 ```bash
 git clone https://github.com/YourUsername/AnswerCount-Automation.git
 cd AnswerCount-Automation
-
-
-
