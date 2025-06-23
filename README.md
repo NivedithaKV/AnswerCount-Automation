@@ -24,15 +24,13 @@ It demonstrates how Python + Selenium WebDriver can be used to automate:
 
 ## 📁 Project Structure
 
-```text
+```
 answer-count-automation/
 │
-├── answer-count.py          # Main Selenium script
-├── requirements.txt         # Python dependencies
-├── screenshots/             # (Optional) Demo output images
-└── README.md                # Project documentation
-
-
+├── answer-count.py # 💻 Main Python script that runs the entire Selenium automation
+├── requirements.txt # 📦 List of Python packages needed to run the script
+├── screenshots/ # 🖼️ Folder for storing output images (e.g., success screenshots)
+└── README.md # 📘 Project documentation, setup instructions, and guide
 ---
 
 ## 🛠️ Tech Stack
@@ -76,21 +74,20 @@ Replace them with your internal test credentials **only in a secure local enviro
 
 1. Clone the repository:
 
-```bash
+```
 git clone https://github.com/YourUsername/sme-automation-project.git
 cd sme-automation-project
 
 2. Install the required libraries:
 
-```bash
+```
 pip install -r requirements.txt
 
 3. Update the main.py file with your internal portal & email details.
 
 4. Run the script:
 
-```bash
+```
 python answer_count.py
-
 
 
