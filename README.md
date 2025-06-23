@@ -70,8 +70,12 @@ Replace them with your internal test credentials **only in a secure local enviro
 
 ### ⚠️ Disclaimer
 
-This automation script is built purely for educational and skill demonstration purposes.  
-It is **not affiliated with or intended to interact with any specific third-party websites**.  
-All references to UI sections like “Answer Dashboard” or “Submission Panel” are generic placeholders.  
-Any resemblance to real platforms is purely coincidental.
+---
 
+### ⚠️ Disclaimer
+
+This automation script is part of an internal tool developed for official use within the company.  
+It is designed to automate daily operational tasks on internal portals only.  
+All references to UI sections such as “My Past Work” or “Question Solving” are generic placeholders.  
+This script does **not interact with or extract data from any public third-party websites**.  
+Any resemblance to real external platforms is purely coincidental.
