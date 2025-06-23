@@ -75,6 +75,6 @@ Replace them with your internal test credentials **only in a secure local enviro
 
 1. Clone the repository:
 
-```bash
+```
 git clone https://github.com/YourUsername/AnswerCount-Automation.git
 cd AnswerCount-Automation
