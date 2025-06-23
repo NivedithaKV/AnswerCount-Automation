@@ -23,35 +23,39 @@ It demonstrates how Python + Selenium WebDriver can be used to automate:
 ---
 
 ## 📁 Project Structure
-```
+
+```text
 answer-count-automation/
 │
-├── answer-count.py # 💻 Main Python script that runs the entire Selenium automation
-├── requirements.txt # 📦 List of Python packages needed to run the script
-├── screenshots/ # 🖼️ Folder for storing output images (e.g., success screenshots)
-└── README.md # 📘 Project documentation, setup instructions, and guide
+├── answer-count.py      # 💻 Main Python script that runs the entire Selenium automation
+├── requirements.txt     # 📦 List of Python packages needed to run the script
+├── screenshots/         # 🖼️ Folder for storing output images (e.g., success screenshots)
+└── README.md            # 📘 Project documentation, setup instructions, and guide
 ---
 
-## 🛠️ Tech Stack
-
-- Python 3.x
-- Selenium WebDriver
-- ChromeDriver
-- XPath & WebDriverWait
-- Regular Expressions (`re`)
-- Time module
 
 ---
 
-## 🧪 How It Works
+## 🧰 Tech Stack
 
-1. **Launch browser** and open SME portal
-2. **Login with email and password**
-3. Open **webmail tab**, login and monitor email
-4. Wait until **OTP email** arrives → extract 6-digit code
-5. Enter **OTP back into SME portal**
-6. Navigate to **“My Past Work” → “Question Solving”**
-7. Count all **answers submitted on the target date**
+- Python 3.x  
+- Selenium WebDriver  
+- ChromeDriver  
+- XPath & WebDriverWait  
+- Regular Expressions (`re`)  
+- Time module  
+
+---
+
+## ⚙️ How It Works
+
+1. **Launch browser** and open SME portal  
+2. **Login with email and password**  
+3. Open **webmail tab**, login and monitor email  
+4. Wait until **OTP email** arrives → extract 6-digit code  
+5. Enter **OTP back into SME portal**  
+6. Navigate to **“My Past Work” → “Question Solving”**  
+7. Count all **answers submitted on the target date**  
 
 ---
 
@@ -69,21 +73,13 @@ Replace them with your internal test credentials **only in a secure local enviro
 
 ---
 
-## ⚙️ Setup Instructions
+## 🧪 Setup Instructions
 
 1. Clone the repository:
-```
-git clone https://github.com/YourUsername/sme-automation-project.git
-cd sme-automation-project
 
-2. Install the required libraries:
-```
-pip install -r requirements.txt
+```bash
+git clone https://github.com/YourUsername/AnswerCount-Automation.git
+cd AnswerCount-Automation
 
-3. Update the main.py file with your internal portal & email details.
-
-4. Run the script:
-```
-python answer_count.py
 
 
