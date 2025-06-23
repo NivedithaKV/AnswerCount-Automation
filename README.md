@@ -22,18 +22,6 @@ It demonstrates how Python + Selenium WebDriver can be used to automate:
 
 ---
 
-## 📁 Project Structure
-
-```
-answer-count-automation/
-│
-├── answer-count.py      # 💻 Main Python script that runs the entire Selenium automation
-├── requirements.txt     # 📦 List of Python packages needed to run the script
-├── screenshots/         # 🖼️ Folder for storing output images (e.g., success screenshots)
-└── README.md            # 📘 Project documentation, setup instructions, and guide
-
----
-
 ## 🧰 Tech Stack
 
 - Python 3.x  
