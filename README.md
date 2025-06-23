@@ -68,3 +68,10 @@ Replace them with your internal test credentials **only in a secure local enviro
 
 ---
 
+### ⚠️ Disclaimer
+
+This automation script is built purely for educational and skill demonstration purposes.  
+It is **not affiliated with or intended to interact with any specific third-party websites**.  
+All references to UI sections like “Answer Dashboard” or “Submission Panel” are generic placeholders.  
+Any resemblance to real platforms is purely coincidental.
+
