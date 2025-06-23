@@ -23,6 +23,65 @@ It demonstrates how Python + Selenium WebDriver can be used to automate:
 ---
 
 ## 📁 Project Structure
-<pre> ``` sme-automation-project/ │ ├── main.py # Main Selenium script ├── requirements.txt # Python dependencies ├── screenshots/ # (Optional) Demo output images └── README.md # Project documentation ``` </pre>
+answer-count-automation/
+│
+├── answer-count.py          # Main Selenium script
+├── requirements.txt         # Python dependencies
+├── screenshots/             # (Optional) Demo output images
+└── README.md                # Project documentation
+
+
+---
+
+## 🛠️ Tech Stack
+
+- Python 3.x
+- Selenium WebDriver
+- ChromeDriver
+- XPath & WebDriverWait
+- Regular Expressions (`re`)
+- Time module
+
+---
+
+## 🧪 How It Works
+
+1. **Launch browser** and open SME portal
+2. **Login with email and password**
+3. Open **webmail tab**, login and monitor email
+4. Wait until **OTP email** arrives → extract 6-digit code
+5. Enter **OTP back into SME portal**
+6. Navigate to **“My Past Work” → “Question Solving”**
+7. Count all **answers submitted on the target date**
+
+---
+
+## 🔐 Credentials Note
+
+All email addresses, portals, and passwords in the code are **dummy placeholders**.  
+Replace them with your internal test credentials **only in a secure local environment**.
+
+---
+
+## 🖼️ Sample Output Screenshot
+
+*(Optional – add this if you want to show a screenshot)*  
+![sample_output](screenshots/sample_output.png)
+
+---
+
+## ⚙️ Setup Instructions
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/YourUsername/sme-automation-project.git
+cd sme-automation-project
+
+pip install -r requirements.txt
+
+python answer_count.py
+
+
 
 
