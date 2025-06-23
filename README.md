@@ -24,7 +24,7 @@ It demonstrates how Python + Selenium WebDriver can be used to automate:
 
 ## 📁 Project Structure
 
-```text
+```
 answer-count-automation/
 │
 ├── answer-count.py      # 💻 Main Python script that runs the entire Selenium automation
@@ -75,6 +75,11 @@ Replace them with your internal test credentials **only in a secure local enviro
 
 1. Clone the repository:
 
-```
-git clone https://github.com/YourUsername/AnswerCount-Automation.git
-cd AnswerCount-Automation
+```bash
+git clone https://github.com/NivedithaKV/AnswerCount-Automation.git
+
+2. Install the required libraries:
+
+```bash
+pip install -r requirements.txt
+
