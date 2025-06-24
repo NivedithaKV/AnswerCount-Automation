@@ -1,5 +1,3 @@
-# AnswerCount-Automation
-Automation script that simulates OTP login and dashboard data extraction for an internal company portal using Selenium.
 # 🧠 SME Answer Submission Tracker (Selenium Automation Project)
 
 This project is an internal tool automation designed to simplify the login and OTP handling process for an SME (Subject Matter Expert) portal and track the number of answers submitted on a particular date.
@@ -22,11 +20,11 @@ It demonstrates how Python + Selenium WebDriver can be used to automate:
 
 ---
 
-### 📁 Files Included
+## 📁 Files Included
 
-- `answer-count.py` – 💻 Main automation script
-- `requirements.txt` – 📦 Python dependencies
-- `README.md` – 📘 Documentation and setup guide
+- `answer-count.py` – 💻 Main automation script  
+- `requirements.txt` – 📦 Python dependencies  
+- `README.md` – 📘 Documentation and setup guide  
 - `screenshots/` – 🖼️ *(Optional)* Folder for demo screenshots
 
 ---
@@ -63,10 +61,30 @@ Replace them with your internal test credentials **only in a secure local enviro
 
 ## 🖼️ Sample Output Screenshot
 
-*(Optional – add this if you want to show a screenshot)*  
+> *(Optional – Replace with actual image if needed)*  
 ![sample_output](screenshots/sample_output.png)
 
 ---
+
+## 🛠️ Setup Instructions
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/your-username/answer-count-automation.git
+cd answer-count-automation
+
+2. **Install the required Python packages:**
+
+```bash
+pip install -r requirements.txt
+
+3. **Update answer-count.py with your company’s internal portal & webmail credentials (replace dummy values).**
+
+4. **Run the script:**
+
+```bash
+python answer-count.py
 
 ### ⚠️ Disclaimer
 
