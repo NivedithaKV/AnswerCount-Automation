@@ -75,12 +75,14 @@ Replace them with your internal test credentials **only in a secure local enviro
 ---
 
 2. **Update answer_count.py with your company’s internal portal & webmail credentials.**
-<pre> pip install -r requirements.txt <pre>
+<pre> pip install -r requirements.txt 
+      <pre>
   
 ---
 
 3. **Run the script:**
-<pre> python answer-count.py <pre>
+<pre> python answer-count.py
+      <pre>
       
 ---
 
