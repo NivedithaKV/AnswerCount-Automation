@@ -71,14 +71,14 @@ Replace them with your internal test credentials **only in a secure local enviro
 1. **Install the required Python packages:**
 ```bash
 git clone https://github.com/your-username/answer-count-automation.git 
-cd answer-count-automation </pre> 
+cd answer-count-automation
 ```
 
 ---
 
 2. **Update answer_count.py with your company’s internal portal & webmail credentials.**
 ```bash
-pip install -r requirements.txt <pre>
+pip install -r requirements.txt
 ```
 
 ---
