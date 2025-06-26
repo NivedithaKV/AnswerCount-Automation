@@ -76,6 +76,7 @@ cd answer-count-automation
 ---
 
 2. **Update answer_count.py with your company’s internal portal & webmail credentials.**
+
 ---
 
 3. **Run the script:**
