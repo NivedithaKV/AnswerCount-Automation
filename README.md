@@ -69,7 +69,7 @@ Replace them with your internal test credentials **only in a secure local enviro
 ## Setup Instructions
 
 1. **Install the required Python packages:**
-     ```bash
+```bash
 git clone https://github.com/your-username/answer-count-automation.git
 cd answer-count-automation
 
