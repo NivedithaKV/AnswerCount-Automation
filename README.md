@@ -69,19 +69,18 @@ Replace them with your internal test credentials **only in a secure local enviro
 ## 🛠️ Setup Instructions
 
 1. **Install the required Python packages:**
-<pre> 
-git clone https://github.com/your-username/answer-count-automation.git 
-cd answer-count-automation 
-</pre> 
+<pre> git clone https://github.com/your-username/answer-count-automation.git 
+      cd answer-count-automation </pre> 
 
 ---
 
 2. **Update answer_count.py with your company’s internal portal & webmail credentials.**
-
+<pre> pip install -r requirements.txt <pre>
+  
 ---
 
 3. **Run the script:**
-
+<pre> python answer-count.py <pre>
 ---
 
 ### ⚠️ Disclaimer
