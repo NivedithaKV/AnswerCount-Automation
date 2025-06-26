@@ -66,6 +66,18 @@ Replace them with your internal test credentials **only in a secure local enviro
 
 ---
 
+## Install the required Python packages:
+
+---
+
+## Update answer_count.py with your company’s internal portal & webmail credentials.
+
+---
+
+## Run the script:
+
+---
+
 ### ⚠️ Disclaimer
 
 This automation script is part of an internal tool developed for official use within the company.  
