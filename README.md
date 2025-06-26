@@ -25,7 +25,7 @@ It demonstrates how Python + Selenium WebDriver can be used to automate:
 - `answer-count.py` – 💻 Main automation script  
 - `requirements.txt` – 📦 Python dependencies  
 - `README.md` – 📘 Documentation and setup guide  
-- `screenshots/` – 🖼️ *(Optional)* Folder for demo screenshots
+- `screenshots/` – 🖼️ Folder for demo screenshots
 
 ---
 
