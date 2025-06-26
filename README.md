@@ -66,17 +66,13 @@ Replace them with your internal test credentials **only in a secure local enviro
 
 ---
 
-## Install the required Python packages:
+## Setup Instructions
 
----
+1. **Install the required Python packages:**
 
-## Update answer_count.py with your company’s internal portal & webmail credentials.
+2. **Update answer_count.py with your company’s internal portal & webmail credentials.**
 
----
-
-## Run the script:
-
----
+3. **Run the script:**
 
 ### ⚠️ Disclaimer
 
