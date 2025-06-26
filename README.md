@@ -73,9 +73,14 @@ Replace them with your internal test credentials **only in a secure local enviro
 git clone https://github.com/your-username/answer-count-automation.git
 cd answer-count-automation
 
+---
+
 2. **Update answer_count.py with your company’s internal portal & webmail credentials.**
+---
 
 3. **Run the script:**
+
+---
 
 ### ⚠️ Disclaimer
 
